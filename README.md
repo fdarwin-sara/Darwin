@@ -9,5 +9,5 @@
 ## 💻 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdarwin-sara&layout=compact&theme=tokyonight&langs_count=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdarwin-sara&layout=compact&theme=tokyonight&langs_count=10" width="40%" />
 </p>
