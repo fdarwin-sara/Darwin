@@ -10,8 +10,7 @@
 
 - 🌎 Software Engineering from Peru  
 - 💻 Focused on improving my projects and code quality  
-- 🧬 Learning to build different types of applications  
-- 🧡 I like clean UI and orange/black aesthetic  
+- 🧬 Learning to build different types of applications
 
 ---
 
